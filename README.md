@@ -1,6 +1,6 @@
 # dmm-make
 
-Ruby binding for DMM.make
+Ruby binding for [DMM.make](http://make.dmm.com)
 
 ## Installation
 
